@@ -1,0 +1,31 @@
+.container .jumbotron{
+
+    background: red;
+    color: white;
+    margin-top: 200px;
+}
+
+body{
+
+    background: url(https://www.istockphoto.com/signature/photo/aerial-view-of-wind-turbines-and-agriculture-field-gm1224819928-360296842?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fclimate&utm_medium=affiliate&utm_source=unsplash&utm_term=climate%3A%3A%3A);
+    background-repeat: no-repeat;
+}
+
+h1{
+
+    color: yellow;
+    text-align: center;
+}
+
+ul{
+
+    color: yellow;
+    font-size: 20px;
+}
+
+img{
+
+    height:30%;
+    width: 30%;
+    border: 5px solid red;
+}
